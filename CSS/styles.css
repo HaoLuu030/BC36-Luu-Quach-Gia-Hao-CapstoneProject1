@@ -1467,9 +1467,9 @@ input.form__input:focus {
     margin-right: 0;
   }
 
-  /* .statistics {
+  .statistics {
       margin-top: 0;
-  } */
+  }
 
   .aboutAb__features {
     grid-template-columns: 1fr 1fr;
