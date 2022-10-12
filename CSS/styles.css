@@ -11,6 +11,7 @@ html {
   color: rgba(22, 28, 45, 0.7);
   font-family: "Quicksand", sans-serif;
   /* scroll-behavior: smooth; */
+  overflow-x: hidden;
 }
 
 .heading h6 {
